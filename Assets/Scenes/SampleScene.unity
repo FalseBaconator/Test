@@ -412,5 +412,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e8ce31e04c99044693f40f7b7443134, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dir: 0.25
+  dir: 0.1
   max: 5
